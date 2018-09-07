@@ -18,6 +18,7 @@ namespace Part1
             try
             {
                 //Farm newFarm = new Farm();
+                Console.WriteLine("Objects and classes hve not been implemented yet");
             }catch(Exception e)
             {
                 Console.WriteLine(e.Message);
