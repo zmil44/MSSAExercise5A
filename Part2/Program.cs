@@ -16,6 +16,7 @@ namespace Part2
             {
                 Farm newFarm = new Farm();
                 Horse ed = new Horse("Mr. Ed","Hello, I am Mr. Ed and I say Neigh because I'm a horse.");
+                newFarm.AnimalsSpeak(ed);
             }
             catch (Exception e)
             {

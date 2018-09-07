@@ -12,7 +12,7 @@ namespace Part2
         {
             Console.WriteLine("Welcome to the farm");
         }
-        public void AnimalsSpeek(Horse horse)
+        public void AnimalsSpeak(Horse horse)
         {
             Console.WriteLine(horse.Speak()); 
         }
